@@ -5,6 +5,6 @@
 
 <br/>
 
-- 🔭 I’m currently working on Software which is writen in ElectronJS
-- 🌱 I’m currently learning AI, Mobile Development, & Much More
+- 🔭 I’m working on Software Development which is writen in ElectronJS
+- 🌱 and I’m learning AI, Mobile Development, & Much More
 - 📫 How to reach me: ( Mail me ) Abubakersiddique761@gmail.com
