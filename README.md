@@ -5,6 +5,6 @@
 
 <br/>
 
-- 🔭 I’m working on Software Development which is writen in ElectronJS
+- 🔭 I’m working on Software Development which is writen in ElectronJS, Django, Kotlin, Framework7 & etc...
 - 🌱 and I’m learning AI, Mobile Development, & Much More
 - 📫 How to reach me: ( Mail me ) Abubakersiddique761@gmail.com
