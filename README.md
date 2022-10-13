@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/xUOxf0ORb81k1ibSBa/giphy.gif" width="500"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Abubakersiddique761&style=flat-square&color=blue" alt=""/>
 </div>
@@ -29,4 +29,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakersiddique761&langs_count=20&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abubakersiddique761&theme=horizon&border_radius=6.2)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abubakersiddique761&theme=onedark&border_radius=6.2)](https://git.io/streak-stats)
