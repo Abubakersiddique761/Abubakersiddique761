@@ -1,9 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/xUOxf0ORb81k1ibSBa/giphy.gif" width="500"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Abubakersiddique761&style=flat-square&color=blue" alt=""/>
-</div>
-
 ### Hi there 👋
 
 - 👋 My Name is Abubaker Siddique, I am an Tech and Mech Enthusiast. 
@@ -27,6 +21,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakersiddique761&langs_count=20&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://komarev.com/ghpvc/?username=Abubakersiddique761&style=flat-square&color=blue" alt=""/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abubakersiddique761&theme=onedark&border_radius=6.2)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakersiddique761&langs_count=20&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
