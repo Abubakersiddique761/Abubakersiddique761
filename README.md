@@ -5,7 +5,7 @@
 
 <br/>
 
-- 🔭 I’m working on Software Development which is writen in ElectronJS, & NFT Designing ( Programmatically )
+- 🔭 I’m working on Software Development which is writen in ElectronJS, Website Desinging, & NFT Designing (Programmatically)
 - 📫 To reach me: ( Just Mail ) Abubakersiddique761@gmail.com
 
 <br/>
